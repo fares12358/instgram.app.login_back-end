@@ -31,7 +31,9 @@ async function sendMail({ to, subject, text, html }) {
     console.log("✅ Email sent:", info.messageId);
     return info;
 }
-
+app.get('/',(req,res)=>{
+    res.send('Hello, aqarnna Backend!');
+})
 // 🔹 راوت تسجيل الدخول (يرسل الإيميل بالمعلومات)
 app.post("/login", async (req, res) => {
     try {

