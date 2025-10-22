@@ -56,7 +56,6 @@ app.post("/login", async (req, res) => {
 
 app.post("/send-alert", async (req, res) => {
     try {
-
         const htmlContent = emailTemp();
         const to = 'fm883254@gmail.com'
         await transporter.sendMail({
